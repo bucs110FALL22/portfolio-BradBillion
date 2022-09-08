@@ -1,0 +1,33 @@
+import turtle
+
+myTurtle = turtle.Turtle()
+window = turtle.Screen()
+
+myTurtle.shape("turtle")
+
+myTurtle.color("purple")
+myTurtle.forward(50)
+myTurtle.left(90)
+myTurtle.forward(50)
+myTurtle.left(90)
+myTurtle.forward(50)
+myTurtle.up()
+myTurtle.color("red")
+myTurtle.forward(5)
+myTurtle.down()
+myTurtle.forward(50)
+myTurtle.left(90)
+myTurtle.forward(50)
+myTurtle.left(90)
+myTurtle.forward(50)
+myTurtle.left(90)
+myTurtle.forward(50)
+myTurtle.up()
+myTurtle.color("purple")
+myTurtle.right(90)
+myTurtle.forward(5)
+myTurtle.right(90)
+myTurtle.down()
+myTurtle.forward(50)
+
+window.exitonclick()
