@@ -1,8 +1,7 @@
 { pkgs }: {
 	deps = [
-		pkgs.exit()
-  pkgs.python38Full
-	];
+    pkgs.python38Full
+    ];
   env = {
     LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath ([
       # Neded for pandas / numpy

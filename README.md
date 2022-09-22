@@ -14,4 +14,4 @@ Preferred Name: Bradley Vaval
 
 Discord username: BradBillion#6053
 
-REPL url: [https://replit.com/join/etfpsconzs-bradleyvaval](https://replit.com/join/gvilbhhkrd-bradleyvaval)
+REPL url: https://replit.com/join/aypxpzabin-bradleyvaval
