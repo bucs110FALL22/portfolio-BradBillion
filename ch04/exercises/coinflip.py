@@ -2,11 +2,11 @@ import turtle
 import random
 import time
 
-window = turtle.Screen()  # 2.  Create a screen
+window = turtle.Screen()
 window.setup(300, 300)
 window.bgcolor('lightblue')
 
-turt = turtle.Turtle()  # 3.  Create two turtles
+turt = turtle.Turtle()
 
 running = True
 while running is True:
