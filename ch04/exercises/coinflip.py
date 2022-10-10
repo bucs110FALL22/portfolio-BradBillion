@@ -5,8 +5,8 @@ import time
 window = turtle.Screen()
 window.setup(300, 300)
 window.bgcolor('lightblue')
-
 turt = turtle.Turtle()
+turt.shape("turtle")
 
 running = True
 while running is True:
