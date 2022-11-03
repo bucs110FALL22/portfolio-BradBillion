@@ -23,12 +23,25 @@ Come up with interfaces fot 3 possible classes you think you may need. Again, br
 
 ## Class Interface 1
 
-< add your interface >
+* class Button
+    * orientation
+    * color
+    * pressed()
 
 ## Class Interface 2
 
-< add your interface >
+* class Note
+    * type
+    * length
+    * range
+    * color
+    * move()
+    * clicked()
 
 ## Class Interface 3
 
-< add your interface >
+* class Sprite
+    * size
+    * position
+    * changeSize()
+    * bounce()
